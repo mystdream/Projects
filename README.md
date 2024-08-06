@@ -94,10 +94,13 @@ The application is developed using Streamlit, allowing users to interactively up
 Sample Output
 Detected objects with confidence scores:
 
-Object 1: Confidence 1.00
-Object 2: Confidence 0.98
-Visual Output:
-![image](https://github.com/user-attachments/assets/ddcb4bce-bc79-496f-89f5-38898d8fb4e4)
+- Object 1: Confidence 1.00
+- Object 2: Confidence 0.98
+- Visual Output:
+  ![image](https://github.com/user-attachments/assets/dd5f9e5b-a9ee-40eb-9d8d-ebf5dc321bc0)
+
+  ![image](https://github.com/user-attachments/assets/38e311b9-8bd1-415f-ac16-5957124720a6)
+
 
 
 
