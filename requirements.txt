@@ -6,4 +6,4 @@ opencv-python-headless
 numpy 
 torch 
 easyocr 
-clip-by-openai
+git+https://github.com/openai/CLIP.git
