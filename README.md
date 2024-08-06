@@ -97,8 +97,8 @@ Detected objects with confidence scores:
 Object 1: Confidence 1.00
 Object 2: Confidence 0.98
 Visual Output:
-![image](https://github.com/user-attachments/assets/e6eb7a11-b308-4a4e-b7aa-8d714eb73e6c)
-![Uploading image.png…]()
+![image](https://github.com/user-attachments/assets/ddcb4bce-bc79-496f-89f5-38898d8fb4e4)
+
 
 
 ## Conclusion
