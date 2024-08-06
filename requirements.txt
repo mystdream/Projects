@@ -1,0 +1,9 @@
+streamlit 
+torchvision 
+pillow 
+matplotlib 
+opencv-python-headless 
+numpy 
+torch 
+easyocr 
+clip-by-openai
