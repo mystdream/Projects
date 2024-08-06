@@ -1,0 +1,277 @@
+{
+  "09bc597f-ebea-45a3-b149-c14efcf408d8": {
+    "top_categories": [
+      {
+        "category": "person",
+        "confidence": 1.0
+      },
+      {
+        "category": "motorcycle",
+        "confidence": 0.0
+      },
+      {
+        "category": "bicycle",
+        "confidence": 0.0
+      },
+      {
+        "category": "airplane",
+        "confidence": 0.0
+      },
+      {
+        "category": "car",
+        "confidence": 0.0
+      }
+    ],
+    "description": "This image appears to contain a person. It might also be a motorcycle or a bicycle."
+  },
+  "40c16221-f1cb-4b7d-9271-7f1de0b72eb5": {
+    "top_categories": [
+      {
+        "category": "person",
+        "confidence": 1.0
+      },
+      {
+        "category": "motorcycle",
+        "confidence": 0.0
+      },
+      {
+        "category": "bicycle",
+        "confidence": 0.0
+      },
+      {
+        "category": "airplane",
+        "confidence": 0.0
+      },
+      {
+        "category": "car",
+        "confidence": 0.0
+      }
+    ],
+    "description": "This image appears to contain a person. It might also be a motorcycle or a bicycle."
+  },
+  "e1f333d5-4b20-4935-9c3a-e9b58e159f52": {
+    "top_categories": [
+      {
+        "category": "bicycle",
+        "confidence": 1.0
+      },
+      {
+        "category": "motorcycle",
+        "confidence": 0.0
+      },
+      {
+        "category": "person",
+        "confidence": 0.0
+      },
+      {
+        "category": "airplane",
+        "confidence": 0.0
+      },
+      {
+        "category": "car",
+        "confidence": 0.0
+      }
+    ],
+    "description": "This image appears to contain a bicycle. It might also be a motorcycle or a person."
+  },
+  "5f006647-221b-471a-838f-1c1a136f5348": {
+    "top_categories": [
+      {
+        "category": "bicycle",
+        "confidence": 1.0
+      },
+      {
+        "category": "motorcycle",
+        "confidence": 0.0
+      },
+      {
+        "category": "person",
+        "confidence": 0.0
+      },
+      {
+        "category": "airplane",
+        "confidence": 0.0
+      },
+      {
+        "category": "car",
+        "confidence": 0.0
+      }
+    ],
+    "description": "This image appears to contain a bicycle. It might also be a motorcycle or a person."
+  },
+  "e1675a1d-78aa-49f0-a812-d7b316524088": {
+    "top_categories": [
+      {
+        "category": "bench",
+        "confidence": 1.0
+      },
+      {
+        "category": "car",
+        "confidence": 0.0
+      },
+      {
+        "category": "person",
+        "confidence": 0.0
+      },
+      {
+        "category": "motorcycle",
+        "confidence": 0.0
+      },
+      {
+        "category": "bicycle",
+        "confidence": 0.0
+      }
+    ],
+    "description": "This image appears to contain a bench. It might also be a car or a person."
+  },
+  "6794a8d7-e8a8-4a2d-920d-e6801c7ca064": {
+    "top_categories": [
+      {
+        "category": "motorcycle",
+        "confidence": 1.0
+      },
+      {
+        "category": "car",
+        "confidence": 0.0
+      },
+      {
+        "category": "person",
+        "confidence": 0.0
+      },
+      {
+        "category": "airplane",
+        "confidence": 0.0
+      },
+      {
+        "category": "bicycle",
+        "confidence": 0.0
+      }
+    ],
+    "description": "This image appears to contain a motorcycle. It might also be a car or a person."
+  },
+  "16165252-05a5-41d6-a721-aba2426344b4": {
+    "top_categories": [
+      {
+        "category": "bicycle",
+        "confidence": 1.0
+      },
+      {
+        "category": "motorcycle",
+        "confidence": 0.0
+      },
+      {
+        "category": "person",
+        "confidence": 0.0
+      },
+      {
+        "category": "airplane",
+        "confidence": 0.0
+      },
+      {
+        "category": "car",
+        "confidence": 0.0
+      }
+    ],
+    "description": "This image appears to contain a bicycle. It might also be a motorcycle or a person."
+  },
+  "3ccade73-1906-4b1f-92b4-7ee0e69f78fe": {
+    "top_categories": [
+      {
+        "category": "person",
+        "confidence": 1.0
+      },
+      {
+        "category": "motorcycle",
+        "confidence": 0.0
+      },
+      {
+        "category": "bicycle",
+        "confidence": 0.0
+      },
+      {
+        "category": "airplane",
+        "confidence": 0.0
+      },
+      {
+        "category": "car",
+        "confidence": 0.0
+      }
+    ],
+    "description": "This image appears to contain a person. It might also be a motorcycle or a bicycle."
+  },
+  "973ff897-9f1c-4b35-b1b1-91714b82c0f3": {
+    "top_categories": [
+      {
+        "category": "person",
+        "confidence": 1.0
+      },
+      {
+        "category": "motorcycle",
+        "confidence": 0.0
+      },
+      {
+        "category": "bicycle",
+        "confidence": 0.0
+      },
+      {
+        "category": "airplane",
+        "confidence": 0.0
+      },
+      {
+        "category": "car",
+        "confidence": 0.0
+      }
+    ],
+    "description": "This image appears to contain a person. It might also be a motorcycle or a bicycle."
+  },
+  "746df462-1fdb-4645-bb3b-2cd6ce86f7f1": {
+    "top_categories": [
+      {
+        "category": "surfboard",
+        "confidence": 1.0
+      },
+      {
+        "category": "car",
+        "confidence": 0.0
+      },
+      {
+        "category": "person",
+        "confidence": 0.0
+      },
+      {
+        "category": "motorcycle",
+        "confidence": 0.0
+      },
+      {
+        "category": "bicycle",
+        "confidence": 0.0
+      }
+    ],
+    "description": "This image appears to contain a surfboard. It might also be a car or a person."
+  },
+  "6e9384a8-c344-497d-a616-77df0fb3ac91": {
+    "top_categories": [
+      {
+        "category": "person",
+        "confidence": 1.0
+      },
+      {
+        "category": "motorcycle",
+        "confidence": 0.0
+      },
+      {
+        "category": "bicycle",
+        "confidence": 0.0
+      },
+      {
+        "category": "airplane",
+        "confidence": 0.0
+      },
+      {
+        "category": "car",
+        "confidence": 0.0
+      }
+    ],
+    "description": "This image appears to contain a person. It might also be a motorcycle or a bicycle."
+  }
+}
