@@ -87,6 +87,19 @@ This project involves building an AI pipeline to process input images, segment, 
 4. **Output:**
    - The segmented objects will be saved in the `output/` directory.
    - Metadata, summaries, and the final output table will be generated and saved in the `output/` directory.
+  
+## Streamlit Application
+The application is developed using Streamlit, allowing users to interactively upload images, view segmented objects, and see the confidence scores for object detection. The application outputs the original image with segmentation overlays and a list of detected objects with confidence scores.
+
+Sample Output
+Detected objects with confidence scores:
+
+Object 1: Confidence 1.00
+Object 2: Confidence 0.98
+Visual Output:
+![image](https://github.com/user-attachments/assets/e6eb7a11-b308-4a4e-b7aa-8d714eb73e6c)
+![Uploading image.png…]()
+
 
 ## Conclusion
 
