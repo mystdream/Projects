@@ -125,7 +125,6 @@ Object 10: Confidence 0.59
 
 Object 11: Confidence 0.55
 
-  ![image](https://github.com/user-attachments/assets/38e311b9-8bd1-415f-ac16-5957124720a6)
 
 
 ## Conclusion
