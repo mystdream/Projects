@@ -91,7 +91,7 @@ This project involves building an AI pipeline to process input images, segment, 
 ## Streamlit Application
 The application is developed using Streamlit, allowing users to interactively upload images, view segmented objects, and see the confidence scores for object detection. The application outputs the original image with segmentation overlays and a list of detected objects with confidence scores.
 
-## Website Link - https://akshayaipipeline.streamlit.app/
+## Website Link - [https://akshayaipipeline.streamlit.app/](https://projects-eyb7iymnudvw8t4wle43g.streamlit.app/)
 
 - Visual Output:
   
