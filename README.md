@@ -95,11 +95,35 @@ App Lik - https://projects-eyb7iymnudvw8t4wle43g.streamlit.app/
 
 - Visual Output:
   
-  ![image](https://github.com/user-attachments/assets/dd5f9e5b-a9ee-40eb-9d8d-ebf5dc321bc0)
+  ![image](https://github.com/user-attachments/assets/7032789f-6083-481b-81a9-06631bfc6d6c)
+
   
 Detected objects with confidence scores:
-- Object 1: Confidence 1.00
-- Object 2: Confidence 0.98
+-Detecting objects...
+
+Detected objects with confidence scores:
+
+Object 1: Confidence 1.00
+
+Object 2: Confidence 1.00
+
+Object 3: Confidence 1.00
+
+Object 4: Confidence 1.00
+
+Object 5: Confidence 1.00
+
+Object 6: Confidence 0.99
+
+Object 7: Confidence 0.98
+
+Object 8: Confidence 0.97
+
+Object 9: Confidence 0.90
+
+Object 10: Confidence 0.59
+
+Object 11: Confidence 0.55
 
   ![image](https://github.com/user-attachments/assets/38e311b9-8bd1-415f-ac16-5957124720a6)
 
