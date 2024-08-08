@@ -98,8 +98,6 @@ App Lik - https://projects-eyb7iymnudvw8t4wle43g.streamlit.app/
   ![image](https://github.com/user-attachments/assets/7032789f-6083-481b-81a9-06631bfc6d6c)
 
   
-Detected objects with confidence scores:
--Detecting objects...
 
 Detected objects with confidence scores:
 
